@@ -122,10 +122,6 @@ Resources are organized by skill level, not just topic, so you can follow this r
 2. Treat the **official PDFs (NIST, OWASP)** as reference material to revisit, not one-time reads — they're dense and meant to be looked up as needed.
 3. Pair each theory resource with something hands-on where possible — e.g. read the OWASP Top 10 entry on SQL injection, then immediately try the matching PortSwigger Academy lab.
 
-## A Note on PDFs
-
-The safest, always-current PDFs are the official government/standards-body ones (NIST, OWASP) linked throughout — free to download directly from the source, no login or paywall. For books, the `freecomputerbooks.com` link points to genuinely open-access/author-released titles rather than pirated reuploads — worth checking each book's own license page before relying on it for anything formal.
-
 ## Contributing
 
 Found a dead link, or a resource that belongs here? Open an issue or a pull request. Please only submit resources that are **free and legitimately sourced** — no pirated PDF reuploads or paywalled content disguised as free.
