@@ -1,10 +1,7 @@
 # Cybersecurity Learning Resources — Beginner to Advanced
 
-A curated set of free, legitimate learning material — official docs, free PDFs, and hands-on labs — organized by level. Everything here links to the original publisher (NIST, OWASP, MITRE, etc.), not third-party reuploads.
+A curated set of free, legitimate learning material — official docs, free PDFs, and hands-on labs — organized by level. Everything here links to the original publisher.
 
-> **A note on PDFs specifically:** the safest, always-current PDFs are the official government/standards-body ones (NIST, OWASP) linked below — those are free to download directly from the source with no login or paywall. For books, I've linked to `freecomputerbooks.com`, which aggregates genuinely open-access/author-released books rather than pirated reuploads — worth checking each book's own license page before relying on it for anything formal.
-
----
 
 ## 🟢 Beginner
 
